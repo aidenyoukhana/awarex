@@ -18,6 +18,7 @@ Awarex keeps you informed about emergencies, incidents, and safety alerts happen
 <img width="200" src="https://github.com/user-attachments/assets/b75ed021-309d-43bb-9e8b-fddd4dfb0abc" />
 <img width="200" src="https://github.com/user-attachments/assets/eaf9ad4b-34ef-4e85-887f-f4f05cda2a89" />
 <img width="200" src="https://github.com/user-attachments/assets/fa6741f9-7101-4509-87c9-ee4ba6c7259e" />
+
 ## Features
 
 - 📍 Real-time local incident alerts
